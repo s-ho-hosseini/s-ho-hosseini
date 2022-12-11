@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @s-ho-hosseini
+- 👀 I’m interested in vanilla javascript, typescript, C# and other web development technologies.
+- 🌱 I’m currently learning deno js and learning about rust lang.
+- 💞️ I’m looking to collaborate on open source large projects
